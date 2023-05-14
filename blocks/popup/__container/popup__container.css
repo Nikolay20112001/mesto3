@@ -1,0 +1,6 @@
+.popup__container {
+    display: grid;
+    grid-template-columns: minmax(280px, 510px);
+    padding-left: 19px;
+    padding-right: 19px;
+}
