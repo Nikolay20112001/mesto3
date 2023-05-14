@@ -15,8 +15,4 @@
 4. Использование относительных велечин
 5. DOM
 ## Ссылка на GitHub Pages
-<<<<<<< HEAD
-[GitHub Pages проект](https://nikolay20112001.github.io/mesto1/)
-=======
-[GitHub Pages проект](https://nikolay20112001.github.io/mesto1/)
->>>>>>> 26cfdae (Version 2)
+[GitHub Pages проект](https://nikolay20112001.github.io/mesto3/)
